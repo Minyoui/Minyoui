@@ -35,9 +35,9 @@
 
 <br>
 
-- 🔭 I’m currently working on <a href="" target="_blank"> Maison`D</a>, <a href="" target="_blank">Jumies</a>
+- 🔭 I’m currently working on <a href="https://github.com/Minyoui/PROJECT_MAISON" target="_blank"> Maison`D</a>, <a href="" target="_blank">Jumies</a>
 - 🌱 I’m currently learning <strong>Node.js, TypeScript, MongoDB, Tailwind, Sass, React Native for Mobile Development</strong>
-- 💬 Ask me about <a href="" target="_blank">PROJECTS</a>
+- 💬 Ask me about <a href="https://github.com/Minyoui" target="_blank">PROJECTS</a>
 - 📫 How to reach me: <strong>evanepacot2002@gmail.com</strong>, <a href="https://pct-portfolio.vercel.app" target="_blank">My Portfolio</a>
 - 😄 Pronouns: <strong>He/Him</strong>
 - ⚡ Fun fact: I like to draw portraits!
