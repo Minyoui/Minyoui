@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1 align="center" >Hello World 👋</h1>
+<p align="center" style="font-weight:bold">So This is a paragraph</p>
 
+<div align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmaGN2emhycGJ3am5kbzBzYXZndGd4cHgwanl2N2FjenMxMnU0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RcuBR7K1JHPbByEH4o/giphy.gif" width="250">
+</div>
+
+<br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM3bWNvMzA0aTNwYTlxb3hnbzBncGptZzhheTI0NmM5ZHlnbDEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="250" alt="monkey coding">
 <!--
 **Minyoui/Minyoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
