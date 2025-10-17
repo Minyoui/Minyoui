@@ -6,7 +6,7 @@
 <p align="justify" >
     I am a graduate student from De La Salle University Dasmariñas, driven by a passion for technology and creativity. I specialize in front-end programming, with a strong passion for creating user-friendly and visually engaging web interfaces. Beyond coding, I bring a creative eye for UI design, allowing me to craft websites that are not only functional but also aesthetically appealing. I place great importance on user experience, ensuring that every website I design or develop is intuitive, responsive, and built with both form and function in mind. I am also adept at building and assembling computer hardware, ensuring systems function efficiently and meet specific needs. 
 
-    As a developer, my goal is to always have the passion to learn more and adapt to new techs. It is my standard to aim for high quality or professional output/program at all times.
+    As a developer, my goal is to always have the passion to learn more and adapt to new techs.
 </p>
 
 
